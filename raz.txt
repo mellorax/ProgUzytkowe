@@ -1,4 +1,8 @@
 Jakiœ tekst
 GBLALBALBLSDlASDLALDALD
+<<<<<<< HEAD
 
 fefwfqf
+=======
+ASDASDSA
+>>>>>>> a8dcc7af265dadfa7eb594dcb457b572c682534b
