@@ -5,4 +5,8 @@ GBLALBALBLSDlASDLALDALD
 fefwfqf
 =======
 ASDASDSA
+<<<<<<< HEAD
 >>>>>>> a8dcc7af265dadfa7eb594dcb457b572c682534b
+=======
+>>>>>>> Jedrzej
+>>>>>>> mellorax_branch
