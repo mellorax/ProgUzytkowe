@@ -7,3 +7,5 @@
 krótkie podsumowanie projektu
 #nowy naglowek
 jakiœ wyraz
+
+4 zmiana / Patryk ¯ygo
