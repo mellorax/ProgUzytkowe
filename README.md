@@ -1,8 +1,8 @@
 # ProgUzytkowe
 
-#Patryk Zygo
+# Patryk Zygo
 
-#opis projektu
+# opis projektu
 
 krótkie podsumowanie projektu
 #nowy naglowek
@@ -14,4 +14,3 @@ jakiœ wyraz
 Zmiany na moimk branchu
 =======
 jakiœ wyraz
->>>>>>> .merge_file_a07944
