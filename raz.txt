@@ -1,4 +1,8 @@
 Jakiœ tekst
 GBLALBALBLSDlASDLALDALD
+<<<<<<< HEAD
 
 fefwfqf
+=======
+ASDASDSA
+>>>>>>> Jedrzej
