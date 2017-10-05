@@ -9,3 +9,5 @@ krótkie podsumowanie projektu
 jakiœ wyraz
 
 4 zmiana / Patryk ¯ygo
+
+Zmiany na moimk branchu
